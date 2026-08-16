@@ -41,4 +41,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<strong>Can you solve it in O(1) time?</strong>
+<strong>Can you solve it in O(1) time. ?</strong>
